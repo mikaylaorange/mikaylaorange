@@ -2,7 +2,7 @@
 
 ## Hey There! 🧡 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I'm Mikayla, a front-end engineer at [Google](https://www.google.com) currently based in [Augusta, GA](https://www.augustaga.gov//). I have a passion for solving in problems in a beautiful and lightweight way, and when I'm not coding you can find me learning the art of espresso making, listening to podcasts (my favorite at the moment is *Solved*, but feel free to send me suggestions!) and learning Korean and Italian (Korean I'm okay with, Italian not so much).
+I'm Mikayla, a front-end engineer at [Google](https://www.google.com) currently based in San Francisco. I have a passion for solving in problems in a beautiful and lightweight way, and when I'm not coding you can find me learning the art of espresso making, listening to podcasts (my favorite at the moment is *Solved*, but feel free to send me suggestions!) and learning Korean and Italian (Korean I'm okay with, Italian not so much).
 
 **Wanna chat? You can find me here:**
 
